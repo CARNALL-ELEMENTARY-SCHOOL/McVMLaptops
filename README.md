@@ -1,15 +1,8 @@
 # VM Computers 
-###### I spent my whole quarantine working on this.
+###### I Asked Detla2Force To Do This He Said Yes......................................................
 #### Made with the SDK of and tested with VirtualBox 6.1.8, you need a VirtualBox version that starts with "6.1" for the mod to work.
 #### Install [Fabric](https://fabricmc.net/use/) for Minecraft 1.15.2 and [the Fabric API mod](https://www.curseforge.com/minecraft/mc-mods/fabric-api) to load the mod .jar (.jar goes in .minecraft/mods)
-#### You can donate in BTC to the address 3GubEkHV69gCkjWhRgRWYqWqyjcWW3gxFF, maybe using PayPal later.
-## How to use
-### Ordering
-#### 1) Craft yourself an ordering tablet.
-![Recipe](https://i.imgur.com/GtyPntY.png)
-#### 2) Wait until it detects a satellite. (They appear quite often)
-![Tablet1](https://i.imgur.com/hWRK8wb.png)
-#### 3) The rest is self-explanatory.
+#### Craft A Wifi Stick
 ### Creating a Hard Drive / Importing an ISO
 ISOs are located at `[minecraft folder]/vm_computers/isos`. Place your ISOs in there and you will be able to select them in the PC case menu. Virtual Hard Drives are created by rightclicking with a hard drive in your hand. It doesn't matter if it's already assigned to a file or not, it will always open the menu. You can either use an existing hard drive (located in `[minecraft folder]/vm_computers/vhds`) or create a new one.
 ### Building the Computer
